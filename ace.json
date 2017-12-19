@@ -1,0 +1,6 @@
+{ "type" : "library" ,
+  "target" : "org.stdplus.strings" ,
+  "name" : "org.stdplus.strings",
+  "lflags" : [],
+  "dependencies" : [ ],
+  "header-only" : false }
